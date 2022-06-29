@@ -126,3 +126,4 @@ Para a chave publica foi obtido o valor 5 e para a chave privada foi obtido o va
 Ao criptografar, utilizando a chave privada 77, a mensagem representada pelo número 9 foi obtido o valor 25.
 E utilizando a chave publica 5 é possível de criptografar a mensagem para o valor 9 novamente.
 
+De início iríamos implementar também em racket, mas como a linguagem não aceita valores grandes como long, a adaptação acabaria ficando maior do que na linguaem C, então optamos por deixar apenas em haskell.
